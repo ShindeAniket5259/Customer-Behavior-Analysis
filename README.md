@@ -1,31 +1,31 @@
 # Customer-Behavior-Analysis
-Data Analytics Project showcasing customer behavior Analysis Using Python, SQL and Power Bi.
+Data Analytics Project showcasing customer behavior Analysis Using Python, SQL and Power BI.
 
-Overview
+# Overview
 
 This project demonstrates a complete end-to-end data analytics workflow, starting from loading raw data in Python to creating an interactive Power BI dashboard and presenting findings in a Gamma presentation.
 The main objective is to extract meaningful insights from the dataset by cleaning, analyzing, and visualizing data effectively.
 
-📁 Dataset
+# Dataset
 
 Source: Public dataset (or internal company data — specify if known)
 
 Format: CSV / Excel / SQL Table
 
-Size: Approx. XX rows × XX columns
+Size: Approx. 3900 rows × 18 columns
 
-Content: Contains information about [briefly describe the data, e.g., customer purchases, sales transactions, employee details, etc.]
+Content: Contains information about [briefly describe the data, e.g., customer purchases, sales transactions etc.]
 
-Tools & Technologies
+# Tools & Technologies
 
-Tool	Purpose
+# Tool	Purpose
 Python (Pandas, NumPy, Matplotlib, Seaborn)	Data loading, cleaning, and exploratory data analysis (EDA)
 SQL (PostgreSQL / MySQL / SQL Server)	Running complex queries, data extraction, and aggregation
 Power BI	Data visualization and dashboard creation
 Gamma.app	Interactive presentation/report creation
 Excel (optional)	Initial data checks and duplicates removal
 
-Steps Followed
+# Steps Followed
 1. Data Loading
 
 Imported dataset into Python using Pandas
@@ -50,7 +50,7 @@ Converted data types and standardized categorical values
 
 4. SQL Analysis
 
-Loaded cleaned dataset into PostgreSQL / MySQL / SQL Server
+Loaded cleaned dataset into  MySQL
 
 Performed analytical queries such as:
 
@@ -78,17 +78,17 @@ Interactive filters/slicers for deeper insights
 
 6. Report & Presentation
 
-Summarized findings in a Gamma presentation (PPT)
+# Summarized findings in a Gamma presentation (PPT)
 
-Highlighted:
+# Highlighted:
 
 Business problems
 
-Key insights
+# Key insights
 
 Data-driven recommendations
 
-Dashboard Overview
+# Dashboard Overview
 
 Page 1: KPI Summary
 
